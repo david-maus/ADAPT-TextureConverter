@@ -17,7 +17,3 @@
 
 ## Known issues & Infos
 - Nothin at the moment
-
-## Repository
-
-[https://github.com/david-maus/ConanModLauncher](https://github.com/david-maus/ConanModLauncher)
