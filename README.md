@@ -2,6 +2,8 @@
 
 ---
 
+![alt text](https://i.imgur.com/e4JjEku.jpg)
+
 ## **Features**
 - Generates / Replaces tiled .exr versions from your .exr / .hdr files (only on scanline .exr or .hdr file)
 - Generates a lower resolution gaussian blurred .exr
