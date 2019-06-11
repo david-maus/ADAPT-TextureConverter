@@ -9,3 +9,4 @@ _SRC/MAIN/__pycache__/
 *_txConverter_*
 *.DS_Store
 !*.gitkeep
+*.zip
